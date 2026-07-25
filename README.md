@@ -134,32 +134,7 @@ AI-powered microbiology tool that converts agar plate images into standardized C
 
 </div>
 
----
-
-<!-- ░░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-## Tech Stack & Tools
-
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=go,java,ts,js,php,c,cpp,python,dart&theme=dark&perline=9)](https://skillicons.dev)
-
-### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,laravel,spring,nodejs,flutter,fastapi,jquery,graphql&theme=dark&perline=9)](https://skillicons.dev)
-
-### Cloud & DevOps
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,nginx,firebase,cloudflare,vercel,netlify,linux&theme=dark&perline=9)](https://skillicons.dev)
-
-### Databases & ORM
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,supabase,prisma,sqlite&theme=dark&perline=9)](https://skillicons.dev)
-
-### Design & Dev Tools
-[![My Skills](https://skillicons.dev/icons?i=figma,git,github,postman,vscode,idea,pytorch,numpy&theme=dark&perline=9)](https://skillicons.dev)
-
-</div>
-
----
+--
 
 <!-- ░░░░░░░░░░░░░░░░░░ GITHUB STATS — LIVE ░░░░░░░░░░░░░░░░░░ -->
 
@@ -176,19 +151,7 @@ AI-powered microbiology tool that converts agar plate images into standardized C
 
 </div>
 
----
 
-<!-- ░░░░░░░░░░░░░░░░░░ CONTRIBUTION CALENDAR — LIVE ░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-## Contribution Calendar — Live
-
-![Contribution Calendar](https://ghchart.rshah.org/00ff88/wi5nuu)
-
-</div>
-
----
 
 <!-- ░░░░░░░░░░░░░░░░░░ SUPPORT ░░░░░░░░░░░░░░░░░░ -->
 

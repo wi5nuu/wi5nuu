@@ -136,20 +136,6 @@ AI-powered microbiology tool that converts agar plate images into standardized C
 
 --
 
-<!-- ░░░░░░░░░░░░░░░░░░ GITHUB STATS — LIVE ░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-## GitHub Analytics — Live Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wi5nuu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00bfff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Wisnu's+GitHub+Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wi5nuu&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&layout=compact&langs_count=10&count_private=true&custom_title=Most+Used+Languages"/>
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=wi5nuu&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00ff8855&ring=00bfff&fire=f97316&currStreakNum=00ff88&sideNums=c9d1d9&currStreakLabel=00bfff&sideLabels=888888&dates=666666&excludeDaysLabel=888888&border_radius=6&card_width=500)](https://git.io/streak-stats)
-
-</div>
 
 
 

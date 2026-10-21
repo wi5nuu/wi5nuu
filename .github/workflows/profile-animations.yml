@@ -40,3 +40,16 @@ jobs:
           git config user.email github-actions@github.com
           git add -A profile-3d-contrib
           git diff --cached --quiet || (git commit -m "chore: update 3D contribution graph" && git push)
+
+  summary-cards:
+    needs: contrib-3d
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: wi5nuu

@@ -218,9 +218,12 @@ Fusion platform correlating Aviation, Maritime, Cyber, Space, Seismic and RF/SIG
 
 <img src="https://streak-stats.demolab.com/?user=wi5nuu&theme=dark&background=0A0A0A&ring=84E10C&fire=84E10C&currStreakLabel=84E10C&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wi5nuu&bg_color=0A0A0A&color=84E10C&line=84E10C&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="profile-summary-card-output/chartreuse_dark/0-profile-details.svg" width="100%" alt="contribution timeline" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=wi5nuu&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" />
+<img height="180" src="profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg" alt="repos per language" />
+<img height="180" src="profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg" alt="most commit language" />
+<img height="180" src="profile-summary-card-output/chartreuse_dark/4-productive-time.svg" alt="productive time" />
+
 
 </div>
 

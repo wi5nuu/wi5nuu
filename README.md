@@ -20,7 +20,7 @@
 
 </div>
 
-<img src="github-profile/assets/divider.svg" width="100%" />
+<img src="assets/divider.svg" width="100%" />
 
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
@@ -50,15 +50,15 @@ I build and operate systems end to end: requirements, architecture, security, de
 <br clear="both"/>
 
 <div align="center">
-<img src="github-profile/assets/terminal.svg" width="100%" alt="Animated terminal" />
+<img src="assets/terminal.svg" width="100%" alt="Animated terminal" />
 </div>
 
-<img src="github-profile/assets/divider.svg" width="100%" />
+<img src="assets/divider.svg" width="100%" />
 
 ## Four realms I work in
 
 <div align="center">
-<img src="github-profile/assets/realms.svg" width="100%" alt="Cyber, AI, Software, DevOps" />
+<img src="assets/realms.svg" width="100%" alt="Cyber, AI, Software, DevOps" />
 </div>
 
 <details>
@@ -97,15 +97,15 @@ Linux VPS (Nginx, PM2, Docker), GitHub Actions CI/CD, Cloudflare WAF / Bot Fight
 
 </details>
 
-<img src="github-profile/assets/divider.svg" width="100%" />
+<img src="assets/divider.svg" width="100%" />
 
 ## Production numbers (last 30 days, Cloudflare)
 
 <div align="center">
-<img src="github-profile/assets/metrics.svg" width="100%" alt="310K+ requests, 22K+ threats mitigated, 99.84% reachability, 15+ AI providers" />
+<img src="assets/metrics.svg" width="100%" alt="310K+ requests, 22K+ threats mitigated, 99.84% reachability, 15+ AI providers" />
 </div>
 
-<img src="github-profile/assets/divider.svg" width="100%" />
+<img src="assets/divider.svg" width="100%" />
 
 ## Featured work
 
@@ -184,7 +184,7 @@ Fusion platform correlating Aviation, Maritime, Cyber, Space, Seismic and RF/SIG
 
 </div>
 
-<img src="github-profile/assets/divider.svg" width="100%" />
+<img src="assets/divider.svg" width="100%" />
 
 ## Security
 
@@ -192,7 +192,7 @@ Fusion platform correlating Aviation, Maritime, Cyber, Space, Seismic and RF/SIG
 - Penetration testing and vulnerability scanning with **Kali Linux** and **Burp Suite**, delivered as structured reports.
 - OWASP Foundation member; open-source contributions to NASA and Microsoft projects.
 
-<img src="github-profile/assets/divider.svg" width="100%" />
+<img src="assets/divider.svg" width="100%" />
 
 ## Toolbox
 
@@ -203,7 +203,7 @@ Fusion platform correlating Aviation, Maritime, Cyber, Space, Seismic and RF/SIG
 
 </div>
 
-<img src="github-profile/assets/divider.svg" width="100%" />
+<img src="assets/divider.svg" width="100%" />
 
 ## Activity
 
@@ -211,7 +211,7 @@ Fusion platform correlating Aviation, Maritime, Cyber, Space, Seismic and RF/SIG
 
 <img src="https://raw.githubusercontent.com/wi5nuu/wi5nuu/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 
-<img src="profile-3d-contrib/profile-night-green.svg" alt="3D contributions" width="100%" />
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" width="100%" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=wi5nuu&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=84E10C&icon_color=84E10C&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wi5nuu&layout=compact&theme=dark&bg_color=0A0A0A&title_color=84E10C&text_color=c9d1d9&hide_border=true" />
@@ -231,5 +231,8 @@ Fusion platform correlating Aviation, Maritime, Cyber, Space, Seismic and RF/SIG
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1a3300,100:0A0A0A&height=120&section=footer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=6b7a55&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+wi5nuu's+profile;Built+with+care+from+Bekasi%2C+Indonesia;Open+to+internships+and+collaboration" alt="footer" />
+
+
+<sub>© 2026 Wisnu Alfian Nur Ashar · All rights reserved · Content and artwork may not be copied or modified without permission (see LICENSE)</sub>
 
 </div>
